@@ -19,7 +19,7 @@ const Contact: React.FC = () => {
             </div>
             <div className="email">
               <span className="info-icon"><i className="fa fa-envelope"></i></span>
-              <span className="info-text">truongvanphong97@gmail.com</span>
+              <span className="info-text">dhungk39@gmail.com</span>
             </div>
             <div className="telephone">
               <span className="info-icon"><i className="fa fa-phone"></i></span>
@@ -27,7 +27,7 @@ const Contact: React.FC = () => {
             </div>
             <div className="website">
               <span className="info-icon"><i className="fa fa-link"></i></span>
-              <span className="info-text">iamPhong.github.io/mycv</span>
+              <span className="info-text">iamdhungk39.github.io/mycv</span>
             </div>
           </div>
         </div>

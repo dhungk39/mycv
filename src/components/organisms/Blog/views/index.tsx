@@ -14,7 +14,7 @@ const Blog: React.FC = () => {
               <h4><a href="# ">PHOTO</a> / <a href="# ">DESIGN</a> / <a href="# ">DEV</a></h4>
               <h3><a href="single-blog.html">HERE GOES AN AWESOME BLOG TITLE</a></h3>
               <ul className="ul-detail">
-                <li><i className="fa fa-user-o"></i>Truong Van Phong</li>
+                <li><i className="fa fa-user-o"></i>Nguyen Dang Hung</li>
                 <li><i className="fa fa-calendar-check-o"></i>Nov 12</li>
                 <li><i className="fa fa-comments-o"></i>46</li>
               </ul>
@@ -30,7 +30,7 @@ const Blog: React.FC = () => {
               <h4><a href="# ">PHOTO</a> / <a href="# ">DESIGN</a> / <a href="# ">DEV</a></h4>
               <h3><a href="single-blog.html">HERE GOES AN AWESOME BLOG TITLE</a></h3>
               <ul className="ul-detail">
-                <li><i className="fa fa-user-o"></i>Truong Van Phong</li>
+                <li><i className="fa fa-user-o"></i>Nguyen Dang Hung</li>
                 <li><i className="fa fa-calendar-check-o"></i>Nov 12</li>
                 <li><i className="fa fa-comments-o"></i>46</li>
               </ul>

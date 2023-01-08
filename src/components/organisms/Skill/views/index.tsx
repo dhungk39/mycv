@@ -14,8 +14,8 @@ const Skill: React.FC = () => {
             </div>
             <div className="skill">
               <div className="title-progress">
-                <span className="skill-name">Ruby on Rails</span>
-                <span className="skill-value">90%</span>
+                <span className="skill-name">Cloud AWS</span>
+                <span className="skill-value">60%</span>
               </div>
               <div className="progress">
                   <div className="progress-bar progress4"
@@ -30,8 +30,8 @@ const Skill: React.FC = () => {
             </div>
             <div className="skill">
               <div className="title-progress">
-                <span className="skill-name">MySQL</span>
-                <span className="skill-value">80%</span>
+                <span className="skill-name">Cloud AZURE</span>
+                <span className="skill-value">40%</span>
               </div>
               <div className="progress">
                   <div className="progress-bar progress5"
@@ -46,8 +46,8 @@ const Skill: React.FC = () => {
             </div>
             <div className="skill">
               <div className="title-progress">
-                <span className="skill-name">JavaScript</span>
-                <span className="skill-value">75%</span>
+                <span className="skill-name">Vmware</span>
+                <span className="skill-value">80%</span>
               </div>
               <div className="progress">
                   <div className="progress-bar progress3"
@@ -62,8 +62,8 @@ const Skill: React.FC = () => {
             </div>
             <div className="skill">
               <div className="title-progress">
-                <span className="skill-name">HTML & CSS</span>
-                <span className="skill-value">75%</span>
+                <span className="skill-name">Hardware Server/Storage</span>
+                <span className="skill-value">80%</span>
               </div>
               <div className="progress">
                   <div className="progress-bar progress1"
@@ -143,7 +143,7 @@ const Skill: React.FC = () => {
                   <div className="other">
                     <div className="skill">
                       <i className="fa fa-check-square-o" aria-hidden="true"></i>
-                      <span>Photoshop</span>
+                      <span>Mysql</span>
                     </div>
                   </div>
                 </div>
@@ -151,11 +151,11 @@ const Skill: React.FC = () => {
                   <div className="other">
                     <div className="skill">
                       <i className="fa fa-check-square-o" aria-hidden="true"></i>
-                      <span>UX and UI Design</span>
+                      <span>CI/CD</span>
                     </div>
                     <div className="skill">
                       <i className="fa fa-check-square-o" aria-hidden="true"></i>
-                      <span>Unit Test</span>
+                      <span>Operating system</span>
                     </div>
                   </div>
                 </div>

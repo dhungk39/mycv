@@ -35,7 +35,7 @@ const Education: React.FC = () => {
         <div className="col-sm-6">
           <div className="education-content">
             <div className="period">
-              <h3>2015 - 2020</h3>
+              <h3>2015 - 2019</h3>
             </div>
             <ul className="ul-education">
               <li className="li-specialty">
@@ -47,7 +47,7 @@ const Education: React.FC = () => {
               <li className="li-university">
                 <div className="university">
                   <span className="education-icon"><i className="fa fa-university"></i></span>
-                  <span className="university-name">Academy Of Cryptography Techniques</span>
+                  <span className="university-name">HUE UNIVERSITY OF SCIENCES</span>
                 </div>
               </li>
             </ul>

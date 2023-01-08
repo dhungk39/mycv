@@ -8,7 +8,7 @@ const About: React.FC = () => {
         <div className="row">
           <div className="col-sm-4">
             <div className="photo-profile">
-              <img src={process.env.PUBLIC_URL + "/images/me.jpg"} alt="Truong Van Phong" />
+              <img src={process.env.PUBLIC_URL + "/images/me.jpg"} alt="Nguyen Dang Hung" />
             </div>
             <a href={process.env.PUBLIC_URL + "/cv/CV.pdf"} target="cv">
               <div className="download-resume">
@@ -19,9 +19,9 @@ const About: React.FC = () => {
           </div>
           <div className="col-sm-8">
             <div className="info-profile">
-              <h2><span>HI I'M</span> TRUONG VAN PHONG</h2>
+              <h2><span>HI I'M</span> NGUYEN DANG HUNG</h2>
               <h3>web developer</h3>
-              <p>Hello! I’m Truong Van Phong. Ruby on Rails Developer with over 3 years of experience.</p>
+              <p>Hello! I’m Nguyen Dang Hung. Ruby on Rails Developer with over 3 years of experience.</p>
               <div className="row">
                 <div className="col-sm-6">
                   <ul className="ul-info">
@@ -35,7 +35,7 @@ const About: React.FC = () => {
                     </li>
                     <li className="li-info">
                       <span className="title-info">Email</span>
-                      <span className="info">truongvanphong97@gmail.com</span>
+                      <span className="info">dhungk39@gmail.com</span>
                     </li>
                   </ul>
                 </div>
@@ -47,7 +47,7 @@ const About: React.FC = () => {
                     </li>
                     <li className="li-info">
                       <span className="title-info">Website</span>
-                      <span className="info">https://iamphong.github.io/mycv</span>
+                      <span className="info">https://iamdhungk39.github.io/mycv</span>
                     </li>
                     <li className="li-info">
                       <span className="title-info">Nationality</span>
@@ -59,7 +59,7 @@ const About: React.FC = () => {
                   <span className="title-links">Social Links</span>
                   <ul className="ul-social-links">
                     <li className="li-social-links">
-                      <a href="https://www.facebook.com/phong.truong.71216141" data-tootik="Facebook" data-tootik-conf="square">
+                      <a href="https://www.facebook.com/NDHKmy" data-tootik="Facebook" data-tootik-conf="square">
                         <i className="fa fa-facebook" aria-hidden="true"></i>
                       </a>
                     </li>

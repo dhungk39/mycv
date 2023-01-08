@@ -1,5 +1,5 @@
 {
-  "homepage": "http://iamPhong.github.io/mycv",
+  "homepage": "http://dhungk39.github.io/mycv",
   "name": "mycv",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +22,7 @@
   "scripts": {
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

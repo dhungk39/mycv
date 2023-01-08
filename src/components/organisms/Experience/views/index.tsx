@@ -14,7 +14,7 @@ const Experience: React.FC = () => {
           <div className="all-experience">
             <div className="experience-content">
               <span className="period-experience">Oct 2021 - Current</span>
-              <h3 className="specialty-name">Web Developer</h3>
+              <h3 className="specialty-name">Cloud Engineer</h3>
               <h3 className="company-name">Sun * Inc</h3>
               <div className="prg-experience">
                 <p>Full-time Staff.</p>

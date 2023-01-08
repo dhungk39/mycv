@@ -20,7 +20,7 @@ const About: React.FC = () => {
           <div className="col-sm-8">
             <div className="info-profile">
               <h2><span>HI I'M</span> NGUYEN DANG HUNG</h2>
-              <h3>web developer</h3>
+              <h3>Cloud Engineer</h3>
               <p>Hello! I’m Nguyen Dang Hung. Ruby on Rails Developer with over 3 years of experience.</p>
               <div className="row">
                 <div className="col-sm-6">
@@ -31,7 +31,7 @@ const About: React.FC = () => {
                     </li>
                     <li className="li-info">
                       <span className="title-info">Address</span>
-                      <span className="info">Tan Trieu, Thanh Tri, Ha Noi</span>
+                      <span className="info">Huong An, Huong Tra, Thua Thien Hue</span>
                     </li>
                     <li className="li-info">
                       <span className="title-info">Email</span>
